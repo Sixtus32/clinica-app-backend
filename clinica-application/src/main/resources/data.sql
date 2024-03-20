@@ -1,0 +1,5 @@
+-- Insertar datos en la tabla PACIENTE
+INSERT INTO USUARIO (ID,NOMBRE, APELLIDOS, USUARIO, CLAVE)
+VALUES (1,'Diego', 'Martin', '@dmartin', '5793485395635');
+INSERT INTO USUARIO (ID,NOMBRE, APELLIDOS, USUARIO, CLAVE)
+VALUES (2,'Franchesca', 'Buenculo', '@buencucho', '34793749287');
